@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Henry! <br/> 
 
-<!--
-**Henrysen1/Henrysen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+ - <b>Active Directory Home Lab</b>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Certifications:</h2>
+
+  - [Google CyberSecurity Certificate]
+
+
+<h2> 🤳 Connect with me:</h2>
+
+<b>[linkedin]: https://www.linkedin.com/in/henrybarboza2001</b>
